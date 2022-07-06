@@ -1,0 +1,38 @@
+{
+    "sections": [
+        {
+            "displayname": "REQUEST INFORMATION",
+            "fields": [
+                "REQUEST ID",
+                "REQUEST TIME",
+                "REQUESTED BY",
+                "REQUESTED FROM",
+                "ITEMS REQUIRED",
+                "REQUESTED FOR",
+                "TRANSFER TO"
+            ]
+        },
+        {
+            "displayname": "UPDATE PO AND MISSING ITEMS",
+            "fields": [
+                "PO",
+                "MISSING ITEMS ?",
+                "REPORT MISSING ITEMS"
+            ]
+        },
+        {
+            "displayname": "RECEIVE AND STAGE TRANSFER",
+            "fields": [
+                "STAGING REQUEST",
+                "TRANSFER RECEIVED ?",
+                "AREA STAGED"
+            ]
+        },
+        {
+            "displayname": "GENERAL NOTE",
+            "fields": [
+                "NOTE"
+            ]
+        }
+    ]
+}
