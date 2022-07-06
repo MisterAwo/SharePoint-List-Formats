@@ -20,7 +20,7 @@
             "children": [
                 {
                     "elmType": "a",
-                    "txtContent": "='POWERSTOP ' + [$Title]",
+                    "txtContent": "='POWERSTOP TRANSFER ' + [$Title]",
                     "attributes": {
                         "target": "_blank",
                         "href": "='https://www.powerstop.com/' + [$Tasks]"
