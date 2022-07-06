@@ -1,0 +1,49 @@
+{
+    "sections": [
+        {
+            "displayname": "ORDER INFORMATION",
+            "fields": [
+                "REF#",
+                "PO#",
+                "SUBMISSION TIME",
+                "SUBMISSION ID",
+                "DEPARTMENT",
+                "COORDINATOR",
+                "BOX COUNT",
+                "PALLET COUNT",
+                "MANUAL PICKS"
+            ]
+        },
+        {
+            "displayname": "INSPECTION",
+            "fields": [
+                "INSPECTION",
+                "INSPECTED"
+            ]
+        },
+        {
+            "displayname": "ROUTE",
+            "fields": [
+                "ML1",
+                "TRACKING",
+                "CARRIER",
+                "CLERK",
+                "WAREHOUSE"
+            ]
+        },
+        {
+            "displayname": "INVOICE",
+            "fields": [
+                "INVOICED",
+                "REP INVOICED",
+                "DATE INVOICED"
+            ]
+        },
+        {
+            "displayname": "GENERAL NOTE",
+            "fields": [
+                "NOTE"
+            ]
+        }
+    ]
+}
