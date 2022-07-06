@@ -1,0 +1,35 @@
+{
+    "elmType": "div",
+    "style": {
+        "height": "24px",
+        "width": "100%",
+        "color": "#fff",
+        "font-size": "15px",
+        "border-top": "5px solid #eee",
+        "background-color": "Red",
+        "padding": "10px"
+    },
+    "children": [
+        {
+            "elmType": "div",
+            "style": {
+                "width": "100%",
+                "padding-top": "10px",
+                "height": "24px"
+            },
+            "children": [
+                {
+                    "elmType": "a",
+                    "txtContent": "='POWERSTOP ' + [$Title]",
+                    "attributes": {
+                        "target": "_blank",
+                        "href": "='https://www.powerstop.com/' + [$Tasks]"
+                    },
+                    "style": {
+                        "color": "white"
+                    }
+                }
+            ]
+        }
+    ]
+}
