@@ -5,6 +5,7 @@
             "fields": [
                 "REF#",
                 "PO#",
+                "ADDRESS",
                 "SUBMISSION TIME",
                 "SUBMISSION ID",
                 "DEPARTMENT",
