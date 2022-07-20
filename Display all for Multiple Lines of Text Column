@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "div",
+  "txtContent": "@currentField",
+  "style": {
+    "white-space": "normal",
+    "padding": "11px 0"
+  },
+  "attributes": {
+    "class": "ms-fontColor-themePrimary"
+  }
+}
