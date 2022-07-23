@@ -1,0 +1,1 @@
+=IF([Modified]=[Created],"Awaiting Response",Modified)
