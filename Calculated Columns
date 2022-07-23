@@ -1,1 +1,1 @@
-=IF([Modified]=[Created],"Awaiting Response",Modified)
+=INT(Modified-Created)*24+HOUR(Modified-Created) 
