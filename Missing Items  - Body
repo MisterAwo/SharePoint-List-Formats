@@ -1,0 +1,46 @@
+{
+    "sections": [
+        {
+            "displayname": "MISSING ITEM INFORMATION",
+            "fields": [
+                "REPORT ID",
+                "REPORT TIME",
+                "REPORTED BY",
+                "DEPARTMENT",
+                "ITEM MISSING",
+                "QTY",
+                "CONFIRMED OOS",
+		"TRANSFER REQUEST ID"
+            ]
+        },
+        {
+            "displayname": "BP - REGISTER STOCK CHECKS",
+            "fields": [
+                "BP STOCK-CHECKED?",
+                "BP QTY FOUND",
+                "SC DATE - BP"
+            ]
+        },
+        {
+            "displayname": "HK - REGISTER STOCK CHECKS",
+            "fields": [
+                "HK STOCK-CHECKED?",
+                "HK QTY FOUND",
+                "SC DATE - HK"
+            ]
+        },
+        {
+            "displayname": "SBC / ASC ADJUSTMENTS",
+            "fields": [
+                "ADJUSTED?",
+                "DATE ADJUSTED"
+            ]
+        },
+        {
+            "displayname": "GENERAL NOTE",
+            "fields": [
+                "NOTE"
+            ]
+        }
+    ]
+}
