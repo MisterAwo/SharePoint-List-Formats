@@ -13,7 +13,8 @@
                 "CLOSED BY",
                 "BOXES",
                 "PALLETS",
-                "MANUAL PICKS"
+                "MANUAL PICKS",
+                "FILL RATE"
             ]
         },
         {
@@ -28,7 +29,7 @@
             "fields": [
                 "SHIP-WITH",
                 "SHIP-WITH SERIES"
-             ]
+            ]
         },
         {
             "displayname": "ROUTE",
